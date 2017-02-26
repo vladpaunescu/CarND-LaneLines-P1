@@ -33,7 +33,7 @@ The goals / steps of this project are the following:
 
 ###1. Describe your pipeline.
 
-My pipeline consisted a more steps, in order to accomodate the different
+My pipeline consisted of more steps, in order to accommodate the different
 challenges on the road.
 
 1. mask the image for yellow and white regions only (needed for the challenge video)
